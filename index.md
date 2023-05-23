@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Welcome to Karissa’s Data Garden! This cozy corner of the internet is a delightful blend of data exploration, creative power app ideas, captivating power BI visualizations, and the magic of R, SQL, Python.
 
-Maybe say a some things about yourself.
+My name is Karissa Lowe, and I am a Data Analyst with a passion for creativity, problem solving, and data equity practices. Please join me on this blog as I share my journey learning about all of the above and more!
 
-Or maybe what you plan to blog about.
