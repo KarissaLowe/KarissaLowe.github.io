@@ -1,4 +1,4 @@
-## Embracing Inclusivity: Power App for Employee Intros, Pronouns, and Name Pronunciation
+## Embracing Inclusivity: Microsoft Power App for Employee Introductions, Pronouns, and Name Pronunciation
 
 ### App Introduction
 Even three years after switching to a hybrid work environment, we are still finding innovative ways to foster connections and promote a sense of belonging. 
