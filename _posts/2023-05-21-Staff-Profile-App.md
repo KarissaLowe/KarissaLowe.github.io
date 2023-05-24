@@ -16,6 +16,11 @@ To meet both of these requests, I built a user-friendly Power App to facilitate 
 - Sharepoint is used to store the data collected from the Profile app in Sharepoint Lists. Any name recordings or profile pictures taken in the app is stored in Sharepoint Document Libraries.
 - Power Automate is used to take the name pronunciation recording from the app and transform it into a saveable file for Sharepoint. There is also an option to take a profile photo within the app. This feature also uses a Power Automate Flow to save the photo to a Sharepoint Document Library.
 
+<br></br>
+
+![Staff Profile Solution Architecture](https://github.com/KarissaLowe/KarissaLowe.github.io/blob/main/Images/Microsoft%20Power%20Apps.png?raw=true)
+
+
 ---
 
 ### Power App Structure
