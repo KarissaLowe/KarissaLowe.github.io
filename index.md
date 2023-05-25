@@ -1,4 +1,4 @@
-![Little Garden icon of some small leaves](https://myoctocat.com/assets/images/base-octocat.svg)
+![Little Garden icon of some small leaves](https://www.groveslibrary.org/autumn-leaf-border-bottom.jpg/@@images/image.jpeg)
 
 Welcome to Karissa’s Data Garden! This corner of the internet is a delightful blend of data exploration, creative power app ideas, captivating power BI visualizations, and the magic of R, SQL, Python.
 
