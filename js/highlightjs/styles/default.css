@@ -1,14 +1,14 @@
 /*
 
 Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
-
+F0F0F0
 */
 
 .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  background: #F0F0F0;
+  background: ##8AE41D;
 }
 
 
