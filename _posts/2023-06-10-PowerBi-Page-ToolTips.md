@@ -10,20 +10,20 @@ These are tooltips that show an additional, smaller page when a value is hovered
 ---
 
 ### Example: Using Page Tooltips to show Volunteer Insights
-All Data used to create this Volunteering report is fake and generated using the random functions on google sheets. Feel free to download the spreadsheet here to practice with!
+All Data used to create this Volunteering report is fake and generated using the random functions on google sheets. Feel free to download the spreadsheet [here](https://github.com/KarissaLowe/KarissaLowe.github.io/blob/main/ExampleData/EventData_PowerBiTooltips.csv) to practice with!
 
 In this example, I used a Page Tooltip to display the donation amount category volunteers are part of broken down by which volunteer activity they are involved with. 
 Are there certain volunteer activities that create a stronger connection with the organization’s mission? Why might certain activities attract individuals who already donate?
 
 Here is how the report looks initially:
 
-![Staff Profile Solution Architecture](https://github.com/KarissaLowe/KarissaLowe.github.io/blob/main/Images/Microsoft%20Power%20Apps.png?raw=true)
+![ToolTip Report Page Example](https://github.com/KarissaLowe/KarissaLowe.github.io/blob/main/Images/Tooltip_Image1.PNG?raw=true)
 
 
 Using Page Tooltips, the user can hover over the table to see the donation category of volunteers involved in each activity:
 
-![Staff Profile Solution Architecture](https://github.com/KarissaLowe/KarissaLowe.github.io/blob/main/Images/Microsoft%20Power%20Apps.png?raw=true)
-![Staff Profile Solution Architecture](https://github.com/KarissaLowe/KarissaLowe.github.io/blob/main/Images/Microsoft%20Power%20Apps.png?raw=true)
+![ToolTip Report Page Example User is hovering over a value to see tooltip 1](https://github.com/KarissaLowe/KarissaLowe.github.io/blob/main/Images/Tooltip_Image2.PNG?raw=true)
+![ToolTip Report Page Example User is hovering over a value to see tooltip 2](https://github.com/KarissaLowe/KarissaLowe.github.io/blob/main/Images/Tooltip_Image3.PNG?raw=true)
 <br>
 
 ---
