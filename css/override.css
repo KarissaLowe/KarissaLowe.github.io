@@ -17,7 +17,8 @@ hr {
   padding: 0 2.2em;
   width: 50%;
   position: relative;
-  color: inherit !important;
+  color: red
+  /*color: inherit !important */;
 }
 
 .post_navi .nav_prev {
